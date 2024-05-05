@@ -1,4 +1,4 @@
-# Seidor's Warehous Voice Assistant 🤖📦
+# Seidor's Warehouse Voice Assistant 🤖📦
 ## Developed for the SEIDOR Challenge at HackUPC
 
 ### Overview 📘
