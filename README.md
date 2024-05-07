@@ -1,5 +1,5 @@
-# Seidor's Warehous Voice Assistant 🤖📦
-## Developed for the SEIDOR Challenge at HackUPC
+# Seidor's Warehouse Voice Assistant 🤖📦
+## Developed for the SEIDOR Challenge at HackUPC 2024
 
 ### Overview 📘
 This innovative project introduces the "AI Pick Assistant," a voice-operated AI system designed to optimize warehouse operations. It focuses on simplifying the purchasing and picking processes in a warehouse setting using advanced voice recognition technology to enable efficient and error-free operations.
