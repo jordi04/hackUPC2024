@@ -1,1 +1,8 @@
-{"products": []}
+{
+    "products": [
+        {
+            "name": "oxispeed",
+            "amount": "5"
+        }
+    ]
+}

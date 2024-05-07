@@ -144,7 +144,7 @@ def interpret_text(text):
                 add_to_list(what_to_add, quantity)
         else:
             print("Please specify the product you want to add.")
-            add_to_list(find_closest_match(record_text(), words_in_csv))
+            add_to_list(find_closest_match(record_text(), words_in_csv), 3)
             
 
     elif (check_substring(text, 'delete')):
